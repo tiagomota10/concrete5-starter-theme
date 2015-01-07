@@ -1,5 +1,5 @@
 {
   "require": {
-    "concrete5/concrete5": "5.7.3"
+    "concrete5/concrete5": "dev-master"
   }
 }
