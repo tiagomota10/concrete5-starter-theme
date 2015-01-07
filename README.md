@@ -1,10 +1,9 @@
 concrete5-starter-theme
 =======================
 
-Boilerplate de una instalación de Concrete5 preparada con un Starter Theme. Todo listo para comenzar a dasarrollar un tema.
+__Concrete5 Starter Theme__. Todo listo para comenzar a dasarrollar un tema para __Concrete5__.
 
 Contiene:
-- [Concrete5(=5.7.3)](http://concrete5.com)
 - Starter Theme
  - [Compass](http://compass-style.org/)
  - [RequireJS](http://requirejs.org/)
