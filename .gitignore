@@ -1,2 +1,4 @@
+Thumb.db
 .sass-cache/
 css/*.css
+!css/vendor/
